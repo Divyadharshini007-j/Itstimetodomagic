@@ -1,1 +1,1 @@
-AI Project Coming Soon 
+Coming Soon AI Project 
