@@ -1,4 +1,4 @@
-# AI Study Helper (Enhanced Version)
+# AI Study Helper
 
 A full-stack intelligent study assistant that allows you to upload notes, manage them, and ask context-aware questions using Cohere AI.
 
